@@ -18,6 +18,6 @@ or
 - Playing games 
 - Learning from Youtube
 
-''' python
+```python
 print("Hello world!")
-'''
+```
