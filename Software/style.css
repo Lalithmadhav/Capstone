@@ -1,0 +1,11 @@
+h1 {
+  font-size: 40px;
+  text-align:center;
+  color: chocolate;
+  padding: 1rem;
+}
+
+.top{
+    margin-top: 0%;
+    background-color: black;
+}
