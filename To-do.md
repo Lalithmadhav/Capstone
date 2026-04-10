@@ -1,0 +1,3 @@
+- Merge all the branches into main
+- Clear unnecessary parts
+- Build website
